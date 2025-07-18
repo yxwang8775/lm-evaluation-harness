@@ -1,0 +1,3 @@
+include: arc_challenge_chat.yaml
+task: arc_easy_chat
+dataset_name: ARC-Easy
